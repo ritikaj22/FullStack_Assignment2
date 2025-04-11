@@ -1,0 +1,2 @@
+This is a sample input file created for the file read and write assignment.
+I am Ritika Jain and this is my Honors Assignment.
